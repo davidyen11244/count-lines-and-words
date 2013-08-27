@@ -9,6 +9,7 @@ import sys
 def main(args):
     if len(args) != 1:
         print 'Usage: python line_number.py <path_to_directory>'
+        sys.exit(1)
 
     line = 0
     word = 0
