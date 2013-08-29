@@ -5,7 +5,7 @@ This is a simple python script that counts all the lines and words with the powe
 It can find all the files recursively by giving a directory path.<br />
 
 ## Usage ##
-* python count.py <path_to_directory>
+`python count.py <path_to_directory>`
 
 ## Requirements ##
 * Python 2.7 - http://www.python.org/
